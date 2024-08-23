@@ -1,3 +1,10 @@
+/*
+Name: Kharie Joi B. Ladignon
+First case study
+C++
+Array and Function focus
+*/
+
 #include <iostream>
 #include <conio.h>
 #include <iomanip>
